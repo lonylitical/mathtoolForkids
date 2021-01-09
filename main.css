@@ -10,7 +10,7 @@ body {font-family: Arial; background-color: #545; border-radius: 3px #cdcdcd;}
   overflow: hidden;
   border: 10px solid #ccc;
   background-color: #546;
-  height:300px;
+  height:230px;
   transition: 0.5s;
   box-shadow: 10px 10px 15px #cdcdcd;
   border-bottom: transparent;
@@ -28,11 +28,11 @@ body {font-family: Arial; background-color: #545; border-radius: 3px #cdcdcd;}
   padding: 14px 16px;
   transition: 0.7s;
   font-size: 30px;
-  height: 300px;
-  width: 370px;
+  height: 225px;
+  width: 250px;
   float: left;
   color: #cdcdcd;
-  margin: 80px 80px;
+  margin: 5px 5px ;
   box-shadow: 10px 10px 15px #cdcdcd;
 }
 
@@ -58,6 +58,7 @@ body {font-family: Arial; background-color: #545; border-radius: 3px #cdcdcd;}
   box-shadow: 10px 10px 15px #cdcdcd;
 }
 .tabcontent:hover{
+        
 	transition: 0.5s;
 	border-bottom: 7px solid #ccc;
 	border-left: 7px solid #ccc;
@@ -124,7 +125,7 @@ body {font-family: Arial; background-color: #545; border-radius: 3px #cdcdcd;}
   box-shadow: 10px 16px 16px 10px rgba(0,0,0,0.2);
   z-index: 1;
   top: 0px;
-  right: -600px;
+  right: -550px;
 }
 .dropdown-content {
   display: none;
@@ -134,7 +135,7 @@ body {font-family: Arial; background-color: #545; border-radius: 3px #cdcdcd;}
   box-shadow: 10px 16px 16px 10px rgba(0,0,0,0.2);
   z-index: 1;
   top: 0px;
-  right: -300px;
+  right: -200px;
 }
 
 .dropdown-content a {
